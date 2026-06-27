@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uttam-upadhyay-a446b9385/)
 [![Portfolio](https://img.shields.io/badge/Website-Live_Demo-333?style=for-the-badge&logo=github)](https://uttamupadhyay.github.io/)
-
+[![Gmail](https://camo.githubusercontent.com/efdf52c3de0c9f2464b789202e45dff2fad8291fa2334f39d96402a360566afc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d436f6e746163745f4d652d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](https://upadhyayuttam197@gmail.com/)
 ---
 </div>
 
