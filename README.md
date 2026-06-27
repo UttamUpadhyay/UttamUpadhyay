@@ -24,9 +24,12 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 ## 📈GitHub Stats
 <div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UttamUpadhyay&show_icons=true&theme=radical&hide_rank=false)
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UttamUpadhyay&layout=compact&theme=radical)
+
 </div>
 ---
 
