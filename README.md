@@ -5,7 +5,17 @@
 Welcome to my GitHub! I'm a passionate developer dedicated to mastering **Data Structures & Algorithms** through C++ while building full-stack web applications. I'm on an exciting journey of continuous learning, currently diving deep into **AI/ML** and expanding my skills across the tech stack.
 
 ---
+# Welcome to my profile! 🚀
+![My Hero Banner](link-to-your-exported-image.png)
 
+### 🛠 Tech Stack & Skills
+<img src="link-to-java-badge.png" width="50" height="50"> 
+<img src="link-to-cpp-badge.png" width="50" height="50">
+
+### 📈 My Projects
+[![Project Name](link-to-project-thumbnail.png)](link-to-your-repo)
+
+---
 ## 🎯 About Me
 
 - 🔥 **DSA Specialist** – Solving complex problems and building efficient algorithms in C++
