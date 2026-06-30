@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uttam-upadhyay-a446b9385/)
 [![Portfolio](https://img.shields.io/badge/Website-Live_Demo-333?style=for-the-badge&logo=github)](https://uttamupadhyay.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upadhyayuttam197@gmail.com)
 
 </div>
 
@@ -26,13 +26,12 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 ## 📈 GitHub Stats
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UttamUpadhyay&show_icons=true&theme=radical&hide_rank=false)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UttamUpadhyay&show_icons=true&theme=radical&hide_rank=false)](https://github.com/UttamUpadhyay)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UttamUpadhyay&layout=compact&theme=radical)](https://github.com/UttamUpadhyay)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UttamUpadhyay&layout=compact&theme=radical)
 
 </div>
-
 ---
 
 <div align="center">
