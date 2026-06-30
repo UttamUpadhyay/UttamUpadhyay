@@ -48,14 +48,6 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 ---
 
-## 🎯 Current Focus
-- 🔨 Building full-stack applications with React and modern web technologies
-- 📚 Mastering advanced DSA concepts and competitive programming
-- 🌐 Contributing to open-source projects and collaborating with developers
-- 💡 Exploring cloud technologies and web deployment strategies
-
----
-
 ## 📚 Learning Journey
 I believe in continuous learning and growth. My repositories showcase my progression from foundational web development to more complex full-stack applications and algorithmic problem-solving.
 
