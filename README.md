@@ -12,32 +12,59 @@
 ---
 
 ## 📌 About Me
-Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory and hands-on coding, constantly evolving my tech skillset and building practical projects.
+Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory and hands-on coding, constantly evolving my tech skillset and building practical projects that solve real-world problems.
+
+---
 
 ## 🛠 Tech Stack
-*   **Languages:** C++ (Core DSA), JavaScript, Python, Java
-*   **Frontend:** React, HTML5, CSS3
-*   **Tools:** Git/GitHub, VS Code
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | C++ (Core DSA), JavaScript, Python, Java |
+| **Frontend** | React, HTML5, CSS3, Responsive Design |
+| **Tools & Platforms** | Git/GitHub, VS Code, GitHub Pages |
+
+---
 
 ## 🚀 Featured Projects
-*   **[YouTube Clone](https://github.com/UttamUpadhyay/Youtube_clone-sem_2-)**: A responsive UI focusing on modular React components and dynamic content rendering.
-*   **[Flipkart UI Clone](https://uttamupadhyay.github.io/)**: A foundational project showcasing clean responsive design and layout fundamentals.
-*   **[DSA Basis](https://github.com/UttamUpadhyay/DSA_Basis)**: A curated repository of algorithmic implementations in C++ covering everything from Arrays to advanced data structures.
 
+| Project | Description |
+|---------|-------------|
+| **[YouTube Clone](https://github.com/UttamUpadhyay/Youtube_clone-sem_2-)** | Responsive UI built with modular React components and dynamic content rendering. Demonstrates component composition and state management. |
+| **[Flipkart UI Clone](https://uttamupadhyay.github.io/)** | Foundational e-commerce UI showcasing clean responsive design, CSS Grid/Flexbox, and layout fundamentals. |
+| **[DSA Basis](https://github.com/UttamUpadhyay/DSA_Basis)** | Comprehensive C++ repository with algorithmic implementations covering Arrays, Linked Lists, Trees, Graphs, and advanced data structures. |
 
 ---
 
 ## 📈 GitHub Stats
+
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UttamUpadhyay&show_icons=true&theme=radical&hide_rank=false)
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UttamUpadhyay&layout=compact&theme=radical)
+
 </div>
 
 ---
 
+## 🎯 Current Focus
+- 🔨 Building full-stack applications with React and modern web technologies
+- 📚 Mastering advanced DSA concepts and competitive programming
+- 🌐 Contributing to open-source projects and collaborating with developers
+- 💡 Exploring cloud technologies and web deployment strategies
+
+---
+
+## 📚 Learning Journey
+I believe in continuous learning and growth. My repositories showcase my progression from foundational web development to more complex full-stack applications and algorithmic problem-solving.
+
+---
+
 <div align="center">
-  <sub>"Every line of code is a step towards mastery."</sub>
+
+### ✨ "Every line of code is a step towards mastery." ✨
+
+**Let's connect and build something amazing together!**
+
 </div>
