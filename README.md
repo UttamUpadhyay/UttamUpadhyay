@@ -30,7 +30,7 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 | Project | Description |
 |---------|-------------|
-| **[YouTube Clone](https://github.com/UttamUpadhyay/Youtube_clone-sem_2-)** | Responsive UI built with modular React components and dynamic content rendering. Demonstrates component composition and state management. |
+| **[YouTube Clone](https://uttamupadhyay.github.io/Youtube_clone-sem_2-/)** | Responsive UI built with modular React components and dynamic content rendering. Demonstrates component composition and state management. |
 | **[Flipkart UI Clone](https://uttamupadhyay.github.io/)** | Foundational e-commerce UI showcasing clean responsive design, CSS Grid/Flexbox, and layout fundamentals. |
 | **[DSA Basis](https://github.com/UttamUpadhyay/DSA_Basis)** | Comprehensive C++ repository with algorithmic implementations covering Arrays, Linked Lists, Trees, Graphs, and advanced data structures. |
 
