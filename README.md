@@ -39,10 +39,18 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 ## 📈 GitHub Stats
 
 <div align="center">
+  
+![UttamUpadhyay's GitHub stats](https://github-readme-stats.shion.dev/api?username=UttamUpadhyay&show_icons=true&theme=github_dark&hide_rank=false)]
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UttamUpadhyay&show_icons=true&theme=radical&hide_rank=false)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UttamUpadhyay&layout=compact&theme=radical)
+<div align="center">
+<!-- Streak stats -->
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=UttamUpadhyay&theme=radical)](https://git.io/streak-stats)
+
+<!-- Activity graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UttamUpadhyay&theme=radical)
 
 </div>
 
