@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Website-Live_Demo-333?style=for-the-badge&logo=github)](https://uttamupadhyay.github.io/)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upadhyayuttam197@gmail.com)
 
+
 </div>
 
 ---
@@ -51,6 +52,8 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 <!-- Activity graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UttamUpadhyay&theme=radical)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=UttamUpadhyay&style=flat-square)
 
 </div>
 
