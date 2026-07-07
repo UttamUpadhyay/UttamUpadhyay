@@ -3,7 +3,7 @@ name: Daily Quote Update
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:     # Allows manual trigger
+  workflow_dispatch:  # Allows manual trigger (same indentation as schedule)
 
 jobs:
   update-quote:
@@ -27,11 +27,8 @@ jobs:
             "Programming is the art of telling another human what you want the computer to do."
             "Coding is today's language of expression."
           )
-          # Use /dev/urandom for better randomness
           RANDOM_INDEX=$(($(od -An -N2 -tu2 /dev/urandom | tr -d ' ') % ${#QUOTES[@]}))
           RANDOM_QUOTE="${QUOTES[$RANDOM_INDEX]}"
-          
-          # Escape quotes properly for sed
           ESCAPED_QUOTE=$(printf '%s\n' "$RANDOM_QUOTE" | sed -e 's/[\/&]/\\&/g')
           sed -i "s|### ✨.*✨|### ✨ \"$ESCAPED_QUOTE\" ✨|" README.md
           
