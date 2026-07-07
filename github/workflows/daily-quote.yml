@@ -9,7 +9,7 @@ jobs:
   update-quote:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Update README with daily quote
         run: |
@@ -27,14 +27,24 @@ jobs:
             "Programming is the art of telling another human what you want the computer to do."
             "Coding is today's language of expression."
           )
-          RANDOM_QUOTE=${QUOTES[$RANDOM % ${#QUOTES[@]}]}
+          # Use /dev/urandom for better randomness
+          RANDOM_INDEX=$(($(od -An -N2 -tu2 /dev/urandom | tr -d ' ') % ${#QUOTES[@]}))
+          RANDOM_QUOTE="${QUOTES[$RANDOM_INDEX]}"
           
-          sed -i "s|### ✨.*✨|### ✨ \"$RANDOM_QUOTE\" ✨|" README.md
+          # Escape quotes properly for sed
+          ESCAPED_QUOTE=$(printf '%s\n' "$RANDOM_QUOTE" | sed -e 's/[\/&]/\\&/g')
+          sed -i "s|### ✨.*✨|### ✨ \"$ESCAPED_QUOTE\" ✨|" README.md
           
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update daily quote" || echo "No changes"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update daily quote"
+            git push origin HEAD:$(git rev-parse --abbrev-ref HEAD)
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
