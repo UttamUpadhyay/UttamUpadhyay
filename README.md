@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Uttam Upadhyay
-### 🚀 Aspiring Software Engineer | DSA Enthusiast | Full Stack Developer
+### 🚀 Aspiring Software Engineer · DSA Enthusiast · Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uttam-upadhyay-a446b9385/)
 [![Portfolio](https://img.shields.io/badge/Website-Live_Demo-333?style=for-the-badge&logo=github)](https://uttamupadhyay.github.io/)
@@ -54,6 +54,8 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UttamUpadhyay&theme=radical)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=UttamUpadhyay&style=flat-square)
+
+ 
 
 </div>
 
