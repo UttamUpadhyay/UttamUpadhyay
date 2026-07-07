@@ -66,7 +66,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Every line of code is a step towards mastery." ✨
+### ✨ "First, solve the problem. Then, write the code." ✨
 
 **Let's connect and build something amazing together!**
 
