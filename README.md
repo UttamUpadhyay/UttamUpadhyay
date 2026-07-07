@@ -41,7 +41,7 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 <div align="center">
   
-![UttamUpadhyay's GitHub stats](https://github-readme-stats.shion.dev/api?username=UttamUpadhyay&show_icons=true&theme=github_dark&hide_rank=false)]
+![UttamUpadhyay's GitHub stats](https://github-readme-stats.shion.dev/api?username=UttamUpadhyay&show_icons=true&theme=github_dark&hide_rank=false)
 
 </div>
 
