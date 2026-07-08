@@ -68,7 +68,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "First, solve the problem. Then, write the code." ✨
+### ✨ "Simplicity is the soul of efficiency." ✨
 
 **Let's connect and build something amazing together!**
 
