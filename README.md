@@ -47,8 +47,8 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 <div align="center">
 <!-- Streak stats -->
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=UttamUpadhyay&theme=radical)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=UttamUpadhyay&theme=dark)](https://git.io/streak-stats)
 
 <!-- Activity graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UttamUpadhyay&theme=radical)
