@@ -7,13 +7,12 @@
 [![Portfolio](https://img.shields.io/badge/Website-Live_Demo-333?style=for-the-badge&logo=github)](https://uttamupadhyay.github.io/)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upadhyayuttam197@gmail.com)
 
-
 </div>
 
 ---
 
 ## 📌 About Me
-Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory and hands-on coding, constantly evolving my tech skills through hands-on projects and continuous learning.
+Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory and hands-on coding, constantly evolving my tech skills.
 
 ---
 
@@ -40,12 +39,23 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![UttamUpadhyay's GitHub stats](https://github-readme-stats.vercel.app/api?username=UttamUpadhyay&show_icons=true&theme=github_dark&hide_rank=false)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UttamUpadhyay&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Stats Card](https://github-readme-stats.vercel.app/api?username=UttamUpadhyay&count_private=true&show_icons=true&theme=dark&line_height=27)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UttamUpadhyay&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UttamUpadhyay&layout=compact&theme=dark)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/uttam-upadhyay-a446b9385/)
+- 🌐 [Portfolio](https://uttamupadhyay.github.io/)
+- 💻 [GitHub](https://github.com/UttamUpadhyay)
+- 📧 [Email](mailto:upadhyayuttam197@gmail.com)
 
 </div>
 
