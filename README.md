@@ -40,9 +40,10 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 <div align="center">
 
-![Stats Card](https://github-readme-stats.vercel.app/api?username=UttamUpadhyay&count_private=true&show_icons=true&theme=dark&line_height=27)
+### 📊 My GitHub Journey
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UttamUpadhyay&layout=compact&theme=dark)
+- **Repositories**: Check out my work on [GitHub](https://github.com/UttamUpadhyay?tab=repositories)
+- **Contributions**: View my [contribution graph](https://github.com/UttamUpadhyay)
 
 </div>
 
@@ -52,10 +53,10 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 <div align="center">
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/uttam-upadhyay-a446b9385/)
-- 🌐 [Portfolio](https://uttamupadhyay.github.io/)
-- 💻 [GitHub](https://github.com/UttamUpadhyay)
-- 📧 [Email](mailto:upadhyayuttam197@gmail.com)
+- 💼 **LinkedIn**: [Uttam Upadhyay](https://www.linkedin.com/in/uttam-upadhyay-a446b9385/)
+- 🌐 **Portfolio**: [My Website](https://uttamupadhyay.github.io/)
+- 💻 **GitHub**: [@UttamUpadhyay](https://github.com/UttamUpadhyay)
+- 📧 **Email**: [upadhyayuttam197@gmail.com](mailto:upadhyayuttam197@gmail.com)
 
 </div>
 
@@ -63,6 +64,12 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 ## 📚 Learning Journey
 I believe in continuous learning and growth. My repositories showcase my progression from foundational web development to more complex full-stack applications and algorithmic problem-solving.
+
+### 🎯 Key Focus Areas:
+- **Data Structures & Algorithms** (C++)
+- **Full-Stack Web Development** (React, JavaScript)
+- **Problem Solving** & Competitive Programming
+- **Open Source Contributions**
 
 ---
 
