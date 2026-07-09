@@ -13,7 +13,7 @@
 ---
 
 ## 📌 About Me
-Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory and hands-on coding, constantly evolving my tech skillset and building practical projects that solve real-world problems.
+Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory and hands-on coding, constantly evolving my tech skills through hands-on projects and continuous learning.
 
 ---
 
@@ -31,7 +31,7 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 | Project | Description |
 |---------|-------------|
-| **[YouTube Clone](https://uttamupadhyay.github.io/Youtube_clone-sem_2-/)** | Responsive UI built with modular React components and dynamic content rendering. Demonstrates component composition and state management. |
+| **[YouTube Clone](https://uttamupadhyay.github.io/Youtube_clone-sem_2-/)** | Responsive UI built with modular React components and dynamic content rendering. Demonstrates component composition and modern CSS practices. |
 | **[Flipkart UI Clone](https://uttamupadhyay.github.io/)** | Foundational e-commerce UI showcasing clean responsive design, CSS Grid/Flexbox, and layout fundamentals. |
 | **[DSA Basis](https://github.com/UttamUpadhyay/DSA_Basis)** | Comprehensive C++ repository with algorithmic implementations covering Arrays, Linked Lists, Trees, Graphs, and advanced data structures. |
 
@@ -41,21 +41,11 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 <div align="center">
   
-![UttamUpadhyay's GitHub stats](https://github-readme-stats.shion.dev/api?username=UttamUpadhyay&show_icons=true&theme=github_dark&hide_rank=false)
+![UttamUpadhyay's GitHub stats](https://github-readme-stats.vercel.app/api?username=UttamUpadhyay&show_icons=true&theme=github_dark&hide_rank=false)
 
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UttamUpadhyay&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<div align="center">
-<!-- Streak stats -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=UttamUpadhyay&theme=dark)](https://git.io/streak-stats)
-
-<!-- Activity graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UttamUpadhyay&theme=radical)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=UttamUpadhyay&style=flat-square)
-
- 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UttamUpadhyay&theme=radical&hide_border=true)
 
 </div>
 
