@@ -68,7 +68,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Simplicity is the soul of efficiency." ✨
+### ✨ "Innovation distinguishes between a leader and a follower." ✨
 
 **Let's connect and build something amazing together!**
 
