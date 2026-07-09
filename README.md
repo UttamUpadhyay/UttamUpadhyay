@@ -35,32 +35,36 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 | **[DSA Basis](https://github.com/UttamUpadhyay/DSA_Basis)** | Comprehensive C++ repository with algorithmic implementations covering Arrays, Linked Lists, Trees, Graphs, and advanced data structures. |
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
 
-### 📊 My GitHub Journey
 
-- **Repositories**: Check out my work on [GitHub](https://github.com/UttamUpadhyay?tab=repositories)
-- **Contributions**: View my [contribution graph](https://github.com/UttamUpadhyay)
+  
+![UttamUpadhyay's GitHub stats](https://github-readme-stats.vercel.app/api?username=UttamUpadhyay&show_icons=true&theme=github_dark&hide_rank=false)
+
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UttamUpadhyay&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UttamUpadhyay&theme=radical&hide_border=true)
 
 </div>
 
 ---
-
-## 🔗 Connect With Me
+## 👀Profile Viewer
 
 <div align="center">
-
-- 💼 **LinkedIn**: [Uttam Upadhyay](https://www.linkedin.com/in/uttam-upadhyay-a446b9385/)
-- 🌐 **Portfolio**: [My Website](https://uttamupadhyay.github.io/)
-- 💻 **GitHub**: [@UttamUpadhyay](https://github.com/UttamUpadhyay)
-- 📧 **Email**: [upadhyayuttam197@gmail.com](mailto:upadhyayuttam197@gmail.com)
-
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=UttamUpadhyay&style=flat-square)
+  
 </div>
 
 ---
+
 
 ## 📚 Learning Journey
 I believe in continuous learning and growth. My repositories showcase my progression from foundational web development to more complex full-stack applications and algorithmic problem-solving.
