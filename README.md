@@ -77,7 +77,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "The best time to write clean code is now." ✨
+### ✨ "The only way to do great work is to love what you do." ✨
 
 **Let's connect and build something amazing together!**
 
