@@ -77,7 +77,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Quality is not an act, it is a habit." ✨
+### ✨ "Programming is the art of telling another human what you want the computer to do." ✨
 
 **Let's connect and build something amazing together!**
 
