@@ -77,7 +77,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Programming is the art of telling another human what you want the computer to do." ✨
+### ✨ "The best time to write clean code is now." ✨
 
 **Let's connect and build something amazing together!**
 
