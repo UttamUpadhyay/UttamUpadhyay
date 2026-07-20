@@ -77,7 +77,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Debugging is twice as hard as writing code." ✨
+### ✨ "The best time to write clean code is now." ✨
 
 **Let's connect and build something amazing together!**
 
