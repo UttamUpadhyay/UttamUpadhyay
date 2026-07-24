@@ -77,7 +77,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Innovation distinguishes between a leader and a follower." ✨
+### ✨ "The only way to do great work is to love what you do." ✨
 
 **Let's connect and build something amazing together!**
 
