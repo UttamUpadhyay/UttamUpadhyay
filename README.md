@@ -12,7 +12,7 @@
 ---
 
 ## 📌 About Me
-Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory and hands-on coding, constantly evolving my te[...]
+Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory [with YGPA of 1yrs : 9.28] and hands-on coding, constantly evolving my tech Skills.
 
 ---
 
