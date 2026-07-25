@@ -12,7 +12,7 @@
 ---
 
 ## 📌 About Me
-Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory and hands-on coding, constantly evolving my tech skills.
+Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory and hands-on coding, constantly evolving my te[...]
 
 ---
 
@@ -30,9 +30,9 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 | Project | Description |
 |---------|-------------|
-| **[YouTube Clone](https://uttamupadhyay.github.io/Youtube_clone-sem_2-/)** | Responsive UI built with modular React components and dynamic content rendering. Demonstrates component composition and modern CSS practices. |
+| **[YouTube Clone](https://uttamupadhyay.github.io/Youtube_clone-sem_2-/)** | Responsive UI built with modular React components and dynamic content rendering. Demonstrates component composition a[...] |
 | **[Flipkart UI Clone](https://uttamupadhyay.github.io/)** | Foundational e-commerce UI showcasing clean responsive design, CSS Grid/Flexbox, and layout fundamentals. |
-| **[DSA Basis](https://github.com/UttamUpadhyay/DSA_Basis)** | Comprehensive C++ repository with algorithmic implementations covering Arrays, Linked Lists, Trees, Graphs, and advanced data structures. |
+| **[DSA Basis](https://github.com/UttamUpadhyay/DSA_Basis)** | Comprehensive C++ repository with algorithmic implementations covering Arrays, Linked Lists, Trees, Graphs, and advanced data struct[...] |
 
 ---
 ## 📈 GitHub Stats
@@ -49,6 +49,10 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UttamUpadhyay&theme=radical&hide_border=true)
+
+### 💻 Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UttamUpadhyay&layout=compact&theme=github_dark&langs_count=8)
 
 </div>
 
