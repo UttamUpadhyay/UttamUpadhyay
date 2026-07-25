@@ -54,7 +54,7 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 ## 💻 Languages Used
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UttamUpadhyay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=UttamUpadhyay&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
