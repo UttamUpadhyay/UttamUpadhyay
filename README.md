@@ -83,7 +83,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Debugging is twice as hard as writing code." ✨
+### ✨ "Good code is its own best documentation." ✨
 
 **Let's connect and build something amazing together!**
 
