@@ -83,7 +83,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Good code is its own best documentation." ✨
+### ✨ "Programming is the art of telling another human what you want the computer to do." ✨
 
 **Let's connect and build something amazing together!**
 
