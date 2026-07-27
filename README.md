@@ -85,6 +85,9 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 ### ✨ "Programming is the art of telling another human what you want the computer to do." ✨
 
-**Let's connect and build something amazing together!**
+**If you find any repo helpful or interesting💫, please consider giving it a star.⭐**
+<br><br>
+**Let's connect and build something amazing ✨ together!**
+
 
 </div>
