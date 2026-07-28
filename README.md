@@ -83,7 +83,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Programming is the art of telling another human what you want the computer to do." ✨
+### ✨ "Coding is today's language of expression." ✨
 
 **If you find any repo helpful or interesting💫, please consider giving it a star.⭐**
 <br><br>
