@@ -1,14 +1,28 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Uttam Upadhyay
-### 🚀 Aspiring Software Engineer · DSA Enthusiast ·  Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,100:0077B5&height=180&section=header&text=Uttam%20Upadhyay&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uttam-upadhyay-a446b9385/)
-[![Portfolio](https://img.shields.io/badge/Website-Live_Demo-333?style=for-the-badge&logo=github)](https://uttamupadhyay.github.io/)
+<h3>🚀 Aspiring Software Engineer | DSA Enthusiast | Full-Stack Developer</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Engineering+Student;C%2B%2B+DSA+Learner;Competitive+Programming+Enthusiast;Frontend+%26+Full-Stack+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-upadhyay-a446b9385/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-333333?style=for-the-badge&logo=github&logoColor=white)](https://uttamupadhyay.github.io/)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upadhyayuttam197@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/upadhyayuttam197)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/victorbravo_24)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=UttamUpadhyay&style=for-the-badge&color=blue" alt="Profile Views" />
+
 </div>
+
+---
+
 
 ---
 
@@ -90,5 +104,8 @@ I believe in continuous learning and growth. My repositories showcase my progres
 <br><br>
 **Let's connect and build something amazing ✨ together!**
 
+
+
+</div>
 
 </div>
