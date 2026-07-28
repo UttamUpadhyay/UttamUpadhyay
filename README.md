@@ -65,24 +65,19 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UttamUpadhyay&theme=radical&hide_border=true)
 
+</div>
 
 
 ## 💻 Languages Used
+<div align= "center">
 
 <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=UttamUpadhyay&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
-## 👀Profile Viewer
 
-<div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=UttamUpadhyay&style=flat-square)
-  
-</div>
 
----
 
 
 ## 📚 Learning Journey
