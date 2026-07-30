@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,100:0077B5&height=180&section=header&text=Uttam%20Upadhyay&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#01;03AC,100:0077B5&height=180&section=header&text=Uttam%20Upadhyay&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 
 <h3>🚀 Aspiring Software Engineer | DSA Enthusiast | Full-Stack Developer</h3>
 
