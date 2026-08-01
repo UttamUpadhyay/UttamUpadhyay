@@ -93,7 +93,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Debugging is twice as hard as writing code." ✨
+### ✨ "Quality is not an act, it is a habit." ✨
 
 **If you find any repo helpful or interesting💫, please consider giving it a star.⭐**
 <br><br>
