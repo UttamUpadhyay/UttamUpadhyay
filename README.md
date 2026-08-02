@@ -93,7 +93,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Quality is not an act, it is a habit." ✨
+### ✨ "First, solve the problem. Then, write the code." ✨
 
 **If you find any repo helpful or interesting💫, please consider giving it a star.⭐**
 <br><br>
