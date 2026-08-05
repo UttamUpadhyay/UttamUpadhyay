@@ -3,9 +3,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#01;03AC,100:0077B5&height=180&section=header&text=Uttam%20Upadhyay&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 
+<!-- Dynamic greeting added below the waving header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00C7FF&center=true&width=800&lines=Hi,+Here+Uttam+Upadhyay" alt="greeting" />
+
 <h3>🚀 Aspiring Software Engineer | DSA Enthusiast | Full-Stack Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Engineering+Student;C%2B%2B+DSA+Learner;Competitive+Programming+Enthusiast;Frontend+%26+Full-Stack+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Engineering+Student;C%2B%2B+DSA+Learner;Compe[...]" />
 
 <br><br>
 
@@ -27,7 +30,7 @@
 ---
 
 ## 📌 About Me
-Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory [with YGPA of 1yrs : 9.28] and hands-on coding, constantly evolving my tech Skills.
+Engineering student passionate about **Data Structures & Algorithms** and **Full Stack Development**. I thrive at the intersection of academic theory [with YGPA of 1yrs : 9.28] and hands-on coding[...]
 
 ---
 
@@ -45,9 +48,9 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 | Project | Description |
 |---------|-------------|
-| **[YouTube Clone](https://uttamupadhyay.github.io/Youtube_clone-sem_2-/)** | Responsive UI built with modular React components and dynamic content rendering. Demonstrates component composition a[...] |
+| **[YouTube Clone](https://uttamupadhyay.github.io/Youtube_clone-sem_2-/)** | Responsive UI built with modular React components and dynamic content rendering. Demonstrates component composition a[...]
 | **[Flipkart UI Clone](https://uttamupadhyay.github.io/)** | Foundational e-commerce UI showcasing clean responsive design, CSS Grid/Flexbox, and layout fundamentals. |
-| **[DSA Basis](https://github.com/UttamUpadhyay/DSA_Basis)** | Comprehensive C++ repository with algorithmic implementations covering Arrays, Linked Lists, Trees, Graphs, and advanced data struct[...] |
+| **[DSA Basis](https://github.com/UttamUpadhyay/DSA_Basis)** | Comprehensive C++ repository with algorithmic implementations covering Arrays, Linked Lists, Trees, Graphs, and advanced data struct[...]
 
 ---
 ## 📈 GitHub Stats
@@ -67,7 +70,6 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 </div>
 
-
 ## 💻 Languages Used
 <div align= "center">
 
@@ -76,7 +78,6 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 </div>
 
 ---
-
 
 
 
