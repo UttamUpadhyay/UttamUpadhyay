@@ -8,7 +8,7 @@
 
 <h3>🚀 Aspiring Software Engineer | DSA Enthusiast | Full-Stack Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Engineering+Student;C%2B%2B+DSA+Learner;Compe[...]" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Engineering+Student;C%2B%2B+DSA+Learner;Competive+Programmer;Problem+Solving+Engineer;Daily+LeetCoder" />
 
 <br><br>
 
