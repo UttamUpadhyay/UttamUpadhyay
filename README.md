@@ -2,7 +2,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#01;03AC,100:0077B5&height=180&section=header&text=Uttam%20Upadhyay&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
-
 <!-- Dynamic greeting added below the waving header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00C7FF&center=true&width=800&lines=Hi,+Here+Uttam+Upadhyay" alt="greeting" />
 
@@ -13,7 +12,6 @@
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-upadhyay-a446b9385/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-333333?style=for-the-badge&logo=github&logoColor=white)](https://uttamupadhyay.github.io/)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upadhyayuttam197@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/upadhyayuttam197)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/victorbravo_24)
