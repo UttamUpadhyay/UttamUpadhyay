@@ -92,7 +92,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "The best time to write clean code is now." ✨
+### ✨ "Simplicity is the soul of efficiency." ✨
 
 **If you find any repo helpful or interesting💫, please consider giving it a star.⭐**
 <br><br>
