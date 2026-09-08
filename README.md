@@ -92,7 +92,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Coding is today's language of expression." ✨
+### ✨ "Debugging is twice as hard as writing code." ✨
 
 **If you find any repo helpful or interesting💫, please consider giving it a star.⭐**
 <br><br>
