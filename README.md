@@ -92,7 +92,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Debugging is twice as hard as writing code." ✨
+### ✨ "The only way to do great work is to love what you do." ✨
 
 **If you find any repo helpful or interesting💫, please consider giving it a star.⭐**
 <br><br>
