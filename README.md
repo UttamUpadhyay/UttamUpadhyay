@@ -91,9 +91,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 ### ✨ "The only way to do great work is to love what you do." ✨
 
-**If you find any repo helpful or interesting💫, please consider giving it a star.⭐**
-<br><br>
-**Let's connect and build something amazing ✨ together!**
+**Star a repo ⭐ — it feeds my dopamine and keeps my bugs away. Let's build cool stuff!**
 
 
 
