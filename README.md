@@ -57,14 +57,17 @@ Engineering student passionate about **Data Structures & Algorithms** and **Full
 
 
   
-![UttamUpadhyay's GitHub stats](https://github-readme-stats.shion.dev/api?username=UttamUpadhyay&show_icons=true&theme=github_dark&hide_rank=false&cache_seconds=1800)
+![UttamUpadhyay's GitHub stats](https://github-readme-stats.shion.dev/api?username=UttamUpadhyay&show_icons=true&theme=github_dark&hide_rank=true&&cache_seconds=1800)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UttamUpadhyay&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+![3D GitHub Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
+
+[![UttamUpadhyay's Contribution Graph](https://ghchart.rshah.org/601ba5/UttamUpadhyay)](https://github.com/UttamUpadhyay)
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UttamUpadhyay&theme=radical&hide_border=true)
+
 
 </div>
 
