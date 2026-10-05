@@ -89,7 +89,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Code is poetry written in logic." ✨
+### ✨ "Coding is today's language of expression." ✨
 
 **Star a repo ⭐ — it feeds my dopamine and keeps my bugs away. Let's build cool stuff!**
 
