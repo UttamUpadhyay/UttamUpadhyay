@@ -89,7 +89,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "The best time to write clean code is now." ✨
+### ✨ "First, solve the problem. Then, write the code." ✨
 
 **Star a repo ⭐ — it feeds my dopamine and keeps my bugs away. Let's build cool stuff!**
 
