@@ -89,7 +89,7 @@ I believe in continuous learning and growth. My repositories showcase my progres
 
 <div align="center">
 
-### ✨ "Programming is the art of telling another human what you want the computer to do." ✨
+### ✨ "Good code is its own best documentation." ✨
 
 **Star a repo ⭐ — it feeds my dopamine and keeps my bugs away. Let's build cool stuff!**
 
